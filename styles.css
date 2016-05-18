@@ -1,0 +1,46 @@
+body {
+  font-family: Tahoma;
+  background-image: url("back.gif");
+  background-size: cover;
+}
+
+#header  {
+  padding: 10px;
+  background-color: steelblue;
+
+}
+
+#cuerpo {
+  padding: 10px;
+  margin: 10px;
+  height: 200px;
+  border-width: 2px;
+  border-color: gray;
+  border-style: solid;
+  background-color: white;
+  opacity: 0.5;
+
+}
+
+#footer {
+  padding: 10px;
+  background-color: powderblue;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.opcion {
+  text-decoration: none;
+  background-color: gainsboro;
+  padding: 6px;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: black;
+}
+
+span {
+  text-decoration: underline;
+}
